@@ -1,4 +1,8 @@
-
+hargapack = 15000
+namapack = "star_supplies"
+iditempack = {6416, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 6532, 6526}
+MinItemPack= 25
+maxbuy = 1
 
 SpecialItem = {5748,5742,5746} --ITEM YANG INGIN DIAMANKAN KE WORLD, COCOK UNTUK HARVEST FEST!
 minSpec = 50 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
