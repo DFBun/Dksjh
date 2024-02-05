@@ -1,3 +1,16 @@
+---===== BASIC SETTINGS =====---
+target_block = 185 -- TARGET MAX HARVEST (JML BLOCK DI TAS)
+target_seed = 1 -- TARGET MINIMAL SEED UNTUK DITANAM
+delayht = 115 -- DELAY HARVEST
+delayplant = 80 -- DELAY PLANT
+delaypnb = 205 -- DELAY PNB
+delayplace = 155 -- DELAY PLACE
+delayworld = 7000 -- DELAY MASUK DOOR
+delaydrop = 1000 -- JEDA DROP PER ITEM
+delaytrash = 100
+targettrash = 100 -- AUTO TRASH JUNK ITEMS KETIKA MENCUKUPI TARGET
+Turu = true --JADIIN FALSE JIKA GAMAU UNLIMITED WORLD
+
 hargapack = 2000
 namapack = "world_lock"
 iditempack = {242}
