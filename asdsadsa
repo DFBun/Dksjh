@@ -14,8 +14,8 @@ Turu = true --JADIIN FALSE JIKA GAMAU UNLIMITED WORLD
 hargapack = 2000
 namapack = "world_lock"
 iditempack = {242}
-MinItemPack= 2
-maxbuy = 10
+MinItemPack= 5
+maxbuy = 5
 
 SpecialItem = {5748,5742,5746} --ITEM YANG INGIN DIAMANKAN KE WORLD, COCOK UNTUK HARVEST FEST!
 minSpec = 50 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
