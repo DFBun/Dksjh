@@ -1,11 +1,12 @@
 ---===== BASIC SETTINGS =====---
+IntervalPlus = 20 -- JEDA TIAP CALL FUNCTION
 target_block = 185 -- TARGET MAX HARVEST (JML BLOCK DI TAS)
 target_seed = 1 -- TARGET MINIMAL SEED UNTUK DITANAM
 delayht = 115 -- DELAY HARVEST
 delayplant = 80 -- DELAY PLANT
-delaypnb = 205 -- DELAY PNB
-delayplace = 160 -- DELAY PLACE
-delayworld = 7000 -- DELAY MASUK DOOR
+delaypnb = 180 -- DELAY PNB
+delayplace = 130 -- DELAY PLACE
+delayworld = 6000 -- DELAY MASUK DOOR
 delaydrop = 1000 -- JEDA DROP PER ITEM
 delaytrash = 100
 targettrash = 100 -- AUTO TRASH JUNK ITEMS KETIKA MENCUKUPI TARGET
