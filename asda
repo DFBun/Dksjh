@@ -1,3 +1,5 @@
+SimplePinghook = true
+
 ---===== BASIC SETTINGS =====---
 IntervalPlus = 20 -- JEDA TIAP CALL FUNCTION
 target_block = 185 -- TARGET MAX HARVEST (JML BLOCK DI TAS)
