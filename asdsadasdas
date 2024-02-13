@@ -1,5 +1,6 @@
 SimplePinghook = true
 HW_Exit = true
+JedaHW = 10
 
 ---===== BASIC SETTINGS =====---
 IntervalPlus = 20 -- JEDA TIAP CALL FUNCTION
@@ -37,3 +38,5 @@ BersihkanBlock = true --BOTNYA AKAN CLEAR PLACED BLOCK SEBELUM NEXT WORLD
 BersihkanFloat = true --BOTNYA AKAN BERSIHKAN FLOATING BLOCK SEBELUM NEXT WORLD
 
 BersihkanWindow = false --BOTNYA KELARIN URUSAN SAMA WINDOW DULU SEBELUM LANJUT KE FARMABLE UTAMA
+
+Bismillah("https://raw.githubusercontent.com/ditampol-tzuyoon/lucifer/main/Rotasi2/Gacha/16.lua")
