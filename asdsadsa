@@ -1,5 +1,6 @@
 SimplePinghook = true
 HW_Exit = true
+JedaHW = 10
 
 ---===== BASIC SETTINGS =====---
 IntervalPlus = 20 -- JEDA TIAP CALL FUNCTION
@@ -25,8 +26,8 @@ SpecialItem = {5748,5742,5746} --ITEM YANG INGIN DIAMANKAN KE WORLD, COCOK UNTUK
 minSpec = 50 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
 ID_AcuanDrop_Spec = 200 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
 
-WorldWL = {"kasdjh22","kasdjh22","kasdjh22"}
---ajdhsasd23
+WorldWL = {"ajdhsasd23","ajdhsasd23","ajdhsasd23"}
+--ajdhsasd23--
 --lkajhd923
 --mlkasjdhs4
 --987ywgdhb
