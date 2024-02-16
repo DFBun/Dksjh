@@ -27,6 +27,7 @@ minSpec = 1 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
 ID_AcuanDrop_Spec = 200 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
 
 WorldWL = {"ajdhsasd23","ajdhsasd23","ajdhsasd23"}
+WorldWindow = {"winlhil24"}
 --ajdhsasd23--
 --lkajhd923
 --mlkasjdhs4
