@@ -17,11 +17,11 @@ delaytrash = 100
 targettrash = 100 -- AUTO TRASH JUNK ITEMS KETIKA MENCUKUPI TARGET
 Turu = true --JADIIN FALSE JIKA GAMAU UNLIMITED WORLD
 
-hargapack = 7500 -- HARGA PACK
-namapack = "valentines" -- NAMA PACK
-iditempack = {3402, 5664}
-MinItemPack= 5
-maxbuy = 5
+hargapack = 2000 -- HARGA PACK
+namapack = "world_lock" -- NAMA PACK
+iditempack = {242}
+MinItemPack= 4
+maxbuy = 10
 
 SpecialItem = {} --ITEM YANG INGIN DIAMANKAN KE WORLD, COCOK UNTUK HARVEST FEST!
 minSpec = 1 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
